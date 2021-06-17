@@ -2,6 +2,7 @@ moshpit
 
 # Created by https://www.toptal.com/developers/gitignore/api/code,linux,go
 # Edit at https://www.toptal.com/developers/gitignore?templates=code,linux,go
+!/webapp/*
 
 ### Code ###
 .vscode/*
